@@ -5,6 +5,7 @@
 I completed some of these projects as part of TripleTen(Practicum) Bootcamp and rest I did as my personal projects.
 The projects are on:
 Data Analysis of Marketing Advertisement Investment of Retail Store
+
 Statistical Analysis of Two Telephone Plans
 Data Analysis of Resturant Establiment in LA region
 Data Cleansing of Housing Data
