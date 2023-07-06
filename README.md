@@ -5,15 +5,15 @@
 I completed some of these projects as part of TripleTen(Practicum) Bootcamp and rest I did as my personal projects.
 The projects are on:
 
-Data Analysis of Marketing Advertisement Investment of Retail Store
+  -Data Analysis of Marketing Advertisement Investment of Retail Store
 
-Statistical Analysis of Two Telephone Plans
+  -Statistical Analysis of Two Telephone Plans
 
-Data Analysis of Resturant Establiment in LA region
+  -Data Analysis of Resturant Establiment in LA region
 
-Data Cleansing of Housing Data
+  -Data Cleansing of Housing Data
 
-Data Analysis of Covid-19
+  -Data Analysis of Covid-19
 
 - I consider data analysis learning journey is a continuous process.
 - 📫 How to reach me ...
